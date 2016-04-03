@@ -1,0 +1,13 @@
+{
+  "name": "workflow_for_work",
+  "version": "1.0.0",
+  "author": "Elina Lysenko",
+  "license": "ISC",
+  "repository" : "https://github.com/Elzas/workflow-template",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.1.0"
+  }
+}

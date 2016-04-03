@@ -1,0 +1,30 @@
+@import "compass";
+* {
+	box-sizing: ;
+}
+.box {
+	height: 400px;
+	width: 600px;
+	margin: 50px auto;
+	border: 3px solid #ccc;
+}
+
+
+
+.box-item {
+	padding: 5px;
+	font-size: 30px;
+	color: #888;
+	border: 1pc solid #ccc;
+	text-align: center;
+}
+
+.box {
+	display: flex;
+	flex-wrap: wrap;
+}
+.box-item {
+ width: 20%;
+}
+
+@import "header.scss";
